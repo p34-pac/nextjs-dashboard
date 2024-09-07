@@ -12,8 +12,8 @@ const users = [
 const customers = [
   {
     id: 'd6e15727-9fe1-4961-8c5b-ea44a9bd81aa',
-    name: 'Evil Rabbit',
-    email: 'evil@rabbit.com',
+    name: 'Good Rabbit',
+    email: 'good@rabbit.com',
     image_url: '/customers/evil-rabbit.png',
   },
   {
